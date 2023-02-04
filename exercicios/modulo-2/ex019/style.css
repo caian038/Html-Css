@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/*
+Em HTML5 e id = Em CSS3 e # (só pode um elemento)
+Em HTML5 e class = Em CSS3 e . (pode vários elementos)
+*/
+
+body{
+    background-color: rgb(160, 226, 173);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(0, 215, 43);
+}
+
+#principal{
+    text-align: center;
+
+}
+
+h2{
+    color: rgb(9, 70, 21);
+}
+
+.basico{
+    color: rgb(247, 114, 6);
+}
+
+.intermediario{
+    color: rgb(34, 6, 247);
+}
+
+.avancado{
+    color: rgb(247, 6, 6);
+}
+
+.destaque{
+    color: rgba(161, 97, 177, 0.441);
+}
