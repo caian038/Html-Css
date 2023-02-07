@@ -79,6 +79,7 @@ section.imagem p{
     background-image: url(pacote-d012/imagens/background001.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-position: right center;
 }
 
 #livros{
