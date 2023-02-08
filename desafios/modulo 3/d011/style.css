@@ -1,0 +1,11 @@
+
+
+body{
+    background-image: url(imagens/espaco.jpg);
+    background-size: cover;
+}
+
+#espaço{
+    background-image: url(imagens/astronauta.png);
+    background-position: center;
+}
